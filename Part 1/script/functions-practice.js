@@ -29,21 +29,21 @@ function sumNumbers(input_numbers) {
 }
 
 //Problem 1
-var number = 20;
+var number = 40;
 console.log("Half of " + number + " is " + halfNumber(number));
 
 //Problem 2
-var number = 5;
+var number = 8;
 console.log("The result of squaring the number " + number + " is " + squareNumber(number));
 
 //Problem 3
-var num1 = 2;
+var num1 = 8;
 var num2 = 4;
 console.log(num1 + " is " + percentOf(2, 4) + "% of " + num2);
 
 //Problem 4
 var num1 = 4;
-var num2 = 10;
+var num2 = 18;
 console.log(findModulus(num1, num2) + " is the modulus of " + num1 + " and " + num2);
 
 //Problem 5

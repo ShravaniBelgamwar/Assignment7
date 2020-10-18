@@ -1,6 +1,6 @@
 //Problem 1
 console.log("\n Problem 1\n")
-var favMovies = ["Frozen", "Fast n Furious", "The mummy", "Joker", "Descpicable Me"];
+var favMovies = ["Legally Blonde", "Dr. Strange", "Captain America", "Black Panther", "27 Dresses"];
 console.log(favMovies[1]);
 
 
@@ -15,7 +15,7 @@ console.log(movies[0]);
 
 //Problem 3
 console.log("\n Problem 3\n")
-movies.splice(2, 0, "Transformers");
+movies.splice(2, 0, "Avengers");
 console.log(movies.length);
 
 
@@ -31,7 +31,7 @@ console.log(movies);
 
 //Problem 5
 console.log("\n Problem 5\n")
-var favMovies = ["Frozen", "Fast n Furious", "The mummy", "Joker", "Descpicable Me", "Eclipse", "Captain Philips"];
+var favMovies = ["Legally Blonde", "Dr. Strange", "Captain America", "Black Panther", "27 Dresses", "Harry Potter", "Thor"];
 var movies = [];
 
 
@@ -62,7 +62,7 @@ for (index in sortedMovies) {
 
 //Problem 8
 console.log("\n Problem 8\n")
-var leastFavMovies = ["The ring", "Annabelle", "James Bond"];
+var leastFavMovies = ["Captain America: Civil War", "Annabelle : Creation", "It Chapter 2"];
 var favMovies = movies;
 
 console.log("\nMovies I like:\n\n" + favMovies.join("\n") +

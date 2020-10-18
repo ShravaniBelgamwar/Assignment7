@@ -47,11 +47,11 @@ function start() {
     var inventory, command;
 
     inventory = [
-        [345, 'Unicorn',10, 52.0],
-        [765, 'Mickey', 8, 80.0],
+        [345, 'Bugs Bunny',10, 52.0],
+        [765, 'Mickey Mouse', 8, 80.0],
         [123, 'Donald duck', 60, 45.90],
-        [908, 'Scooby Doo', 40, 25.99],
-        [549, 'Alladin', 20, 100.0]
+        [908, 'Tweety', 40, 25.99],
+        [549, 'Goofy', 20, 100.0]
     ];
 
     menu();
